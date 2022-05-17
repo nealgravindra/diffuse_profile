@@ -13,4 +13,4 @@ How to diffuse a profile into a shared space for recommendations? Should we use 
 
 ### Single-cell RNA sequencing 
 
-[Liao et al. 2020](https://www.nature.com/articles/s41591-020-0901-9) in Nature Medicine is a dataset of individuals' lung fluid with no, moderate, and severe or critical COVID-19. We have pre-processed data and released that for this application. It is available here: 
+[Liao et al. 2020](https://www.nature.com/articles/s41591-020-0901-9) published a dataset of individuals' lung fluid with no, moderate, or severe/critical COVID-19. We have pre-processed that data and released the pre-processed version for this application. The pre-processed data is available here: . However, please visit the original manuscript for the data. 
